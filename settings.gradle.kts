@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "SrgAppMainKmm"
 include(":SrgAppMainAndroid")
 include(":SrgAppMainKmp")
+include(":SrgPluginKnetworkKmp")
