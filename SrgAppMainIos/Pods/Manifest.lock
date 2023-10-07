@@ -1,0 +1,16 @@
+PODS:
+  - SrgAppMainKmp (1.0)
+
+DEPENDENCIES:
+  - SrgAppMainKmp (from `../SrgAppMainKmp`)
+
+EXTERNAL SOURCES:
+  SrgAppMainKmp:
+    :path: "../SrgAppMainKmp"
+
+SPEC CHECKSUMS:
+  SrgAppMainKmp: 64c75c88074e17ffe14e89d5f507fe8162884f81
+
+PODFILE CHECKSUM: a9c84ff00ef35996a3df237ce834d34f08cfbf53
+
+COCOAPODS: 1.11.3

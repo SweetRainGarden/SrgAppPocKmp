@@ -1,0 +1,5 @@
+target 'SrgAppMainIos' do
+  use_frameworks!
+  platform :ios, '14.1'
+  pod 'SrgAppMainKmp', :path => '../SrgAppMainKmp'
+end
